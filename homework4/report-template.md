@@ -12,4 +12,4 @@ My profile [link](https://codefights.com/profile/juliakuznets/stats).
 
 ## Screenshot
 
-![codefights](../screen.png)
+![codefights](https://github.com/yulyagerman19/homework-template/blob/feature-homework-4/screen.PNG?raw=true)
